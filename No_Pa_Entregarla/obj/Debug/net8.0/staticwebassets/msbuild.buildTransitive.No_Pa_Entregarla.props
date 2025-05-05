@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\No_Pa_Entregarla.props" />
+</Project>
