@@ -8,7 +8,6 @@
         public ProductoPerecible(DateTime fecha_Vencimiento, int dias_para_Vencer)
         {
             Fecha_Vencimiento = fecha_Vencimiento;
-            Dias_para_Vencer = dias_para_Vencer;
         }
     }
 }
